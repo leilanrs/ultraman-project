@@ -2,7 +2,6 @@ const ultramantObj = {
     name: "tiga",
     height: 100,
     isDead: false,
-    blip: true,
     address: {
         planet: {
             name: "namex",
